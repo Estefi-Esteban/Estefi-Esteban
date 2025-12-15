@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Estefania
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![NLP](https://img.shields.io/badge/NLP-spaCy%20%7C%20Transformers-green)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+
 🎓 AI & Data Science Student  
 🤖 Focused on Machine Learning, NLP and LLM-based applications  
 🚀 Building practical projects with real-world use cases
